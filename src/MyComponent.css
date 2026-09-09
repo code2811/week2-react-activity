@@ -1,0 +1,19 @@
+.my-component {
+  background-color: #f0f4ff;
+  padding: 32px;
+  border: 1px solid #c0ccee;
+  border-radius: 12px;
+  text-align: center;
+}
+
+.my-component h1 {
+  font-size: 2rem;
+  color: #1a237e;
+  margin-bottom: 12px;
+}
+
+.my-component p {
+  font-size: 1.1rem;
+  color: #3c4a6e;
+  line-height: 1.6;
+}
