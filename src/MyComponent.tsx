@@ -1,3 +1,4 @@
+// MyComponent: displays a heading and paragraph
 import React from 'react';
 import './MyComponent.css';
 
